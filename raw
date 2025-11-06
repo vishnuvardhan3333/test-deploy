@@ -271,6 +271,171 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "subject": "Physics",
+                  "books": [
+                    {
+                      "bookTitle": "Physics Part-I",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph101.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph102.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph103.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph104.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph105.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph106.pdf"
+                        },
+                        {
+                          "label": "Chapter 7",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph107.pdf"
+                        },
+                        {
+                          "label": "Chapter 8",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph108.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph1an.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Physics Part-II",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph2ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph201.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph202.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph203.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph204.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph205.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph206.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Bhautiki Part-I",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph1ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph101.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph102.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph103.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph104.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph105.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph106.pdf"
+                        },
+                        {
+                          "label": "Chapter 7",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph106.pdf"
+                        },
+                        {
+                          "label": "Chapter 8",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph106.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph1an.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Bhautiki Part-II",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph2ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph201.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph202.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph203.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph204.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph205.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph206.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph2an.pdf"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
