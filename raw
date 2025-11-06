@@ -518,6 +518,69 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "subject": "Accountancy",
+                  "books": [
+                    {
+                      "bookTitle": "Accountancy Part I",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac1ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac101.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac102.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac103.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac104.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Accountancy Part II",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac1ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac201.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac202.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac203.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac204.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac205.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leac206.pdf"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
