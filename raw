@@ -97,6 +97,178 @@
                           "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh2an.pdf"
                         }
                       ]
+                    },
+                    {
+                      "bookTitle": "Ganit-I",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh1ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh101.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh102.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh103.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh104.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh105.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh106.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh1an.pdf"
+                        },
+                        {
+                          "label": "Appendix I",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh1a1.pdf"
+                        },
+                        {
+                          "label": "Appendix II",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh1a2.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Ganit-II",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh2ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh201.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh202.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh203.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh204.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh205.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh206.pdf"
+                        },
+                        {
+                          "label": "Chapter 7",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh207.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhmh2an.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Riyazi-I",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh1ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh101.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh102.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh103.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh104.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh105.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh106.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh1an.pdf"
+                        },
+                        {
+                          "label": "Appendix I",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh1a1.pdf"
+                        },
+                        {
+                          "label": "Appendix II",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh1a2.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Riyazi-II",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh2ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh201.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh202.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh203.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh204.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh205.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh206.pdf"
+                        },
+                        {
+                          "label": "Chapter 7",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh207.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lumh2an.pdf"
+                        }
+                      ]
                     }
                   ]
                 }
