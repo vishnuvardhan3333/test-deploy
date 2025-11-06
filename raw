@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "syllabus": "NCERT",
+      "year": 2025,
+      "class": "12",
+      "subject": "Mathematics",
+      "bookTitle": "Mathematics Part-I",
+      "sections": [
+        {
+          "label": "Prelims",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh1ps.pdf"
+        },
+        {
+          "label": "Chapter 1",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh101.pdf"
+        },
+        {
+          "label": "Chapter 2",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh102.pdf"
+        },
+        {
+          "label": "Chapter 3",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh103.pdf"
+        },
+        {
+          "label": "Chapter 4",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh104.pdf"
+        },
+        {
+          "label": "Chapter 5",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh105.pdf"
+        },
+        {
+          "label": "Chapter 6",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh106.pdf"
+        },
+        {
+          "label": "Answers",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh1an.pdf"
+        },
+        {
+          "label": "Appendix I",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh1a1.pdf"
+        },
+        {
+          "label": "Appendix II",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh1a2.pdf"
+        }
+      ]
+    },
+    {
+      "syllabus": "NCERT",
+      "year": 2025,
+      "class": "12",
+      "subject": "Mathematics",
+      "bookTitle": "Mathematics Part-2",
+      "sections": [
+        {
+          "label": "Prelims",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh2ps.pdf"
+        },
+        {
+          "label": "Chapter 1",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh201.pdf"
+        },
+        {
+          "label": "Chapter 2",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh202.pdf"
+        },
+        {
+          "label": "Chapter 3",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh203.pdf"
+        },
+        {
+          "label": "Chapter 4",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh204.pdf"
+        },
+        {
+          "label": "Chapter 5",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh205.pdf"
+        },
+        {
+          "label": "Chapter 6",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh206.pdf"
+        },
+        {
+          "label": "Chapter 7",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh207.pdf"
+        },
+        {
+          "label": "Answers",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh2an.pdf"
+        }
+      ]
+    }
+  ]
+}
