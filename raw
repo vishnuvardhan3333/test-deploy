@@ -358,43 +358,43 @@
                       "sections": [
                         {
                           "label": "Prelims",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph1ps.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph2ps.pdf"
                         },
                         {
                           "label": "Chapter 1",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph101.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph201.pdf"
                         },
                         {
                           "label": "Chapter 2",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph102.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph202.pdf"
                         },
                         {
                           "label": "Chapter 3",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph103.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph203.pdf"
                         },
                         {
                           "label": "Chapter 4",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph104.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph204.pdf"
                         },
                         {
                           "label": "Chapter 5",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph105.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph205.pdf"
                         },
                         {
                           "label": "Chapter 6",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph106.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph206.pdf"
                         },
                         {
                           "label": "Chapter 7",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph106.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph206.pdf"
                         },
                         {
                           "label": "Chapter 8",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph106.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph206.pdf"
                         },
                         {
                           "label": "Answers",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph1an.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph2an.pdf"
                         }
                       ]
                     },
@@ -403,35 +403,117 @@
                       "sections": [
                         {
                           "label": "Prelims",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph2ps.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph2ps.pdf"
                         },
                         {
                           "label": "Chapter 1",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph201.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph201.pdf"
                         },
                         {
                           "label": "Chapter 2",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph202.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph202.pdf"
                         },
                         {
                           "label": "Chapter 3",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph203.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph203.pdf"
                         },
                         {
                           "label": "Chapter 4",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph204.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph204.pdf"
                         },
                         {
                           "label": "Chapter 5",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph205.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph205.pdf"
                         },
                         {
                           "label": "Chapter 6",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph206.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph206.pdf"
                         },
                         {
                           "label": "Answers",
-                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhph2an.pdf"
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph2an.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Tabiyaat-I",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph1ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph101.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph102.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph103.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph104.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph105.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph106.pdf"
+                        },
+                        {
+                          "label": "Chapter 7",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph107.pdf"
+                        },
+                        {
+                          "label": "Chapter 8",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph108.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph1an.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "bookTitle": "Tabiyaat-II",
+                      "sections": [
+                        {
+                          "label": "Prelims",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph2ps.pdf"
+                        },
+                        {
+                          "label": "Chapter 1",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph201.pdf"
+                        },
+                        {
+                          "label": "Chapter 2",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph202.pdf"
+                        },
+                        {
+                          "label": "Chapter 3",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph203.pdf"
+                        },
+                        {
+                          "label": "Chapter 4",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph204.pdf"
+                        },
+                        {
+                          "label": "Chapter 5",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph205.pdf"
+                        },
+                        {
+                          "label": "Chapter 6",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph206.pdf"
+                        },
+                        {
+                          "label": "Answers",
+                          "pdfUrl": "https://ncert.nic.in/textbook/pdf/luph2an.pdf"
                         }
                       ]
                     }
